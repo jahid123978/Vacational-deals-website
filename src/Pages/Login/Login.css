@@ -1,0 +1,31 @@
+
+.login-container{
+    padding: 10px;
+    background-color: aliceblue;
+    height: 80vh;
+    /* margin: 0px;
+    padding: 0px; */
+    padding-bottom: 20px;
+}
+.login-page{
+    background-color: 	lightblue;
+    width: 30%;
+    height: 80%;
+    margin-left: 35%;
+    border: 1px solid white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.signUp{
+    text-decoration: none;
+    background-color:royalblue;
+    padding: 10px 20px;
+    border-radius: 20px;
+    color: white;
+}
+.login{
+    text-decoration: none;
+    background-color:royalblue;
+    padding: 10px 20px;
+    border-radius: 20px;
+    color: white;
+}

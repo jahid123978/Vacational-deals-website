@@ -1,0 +1,31 @@
+.form-container input{
+    width: 50%;
+    height: 100%;
+    padding: 5px;
+}
+.form-container{
+    margin-bottom: 40px;
+}
+.phone{
+    margin-right: 540px;
+}
+.name{
+    margin-bottom: 20px;
+    margin-right: 605px;
+}
+.email{
+    margin-right: 610px;
+}
+.city{
+    margin-right: 620px;
+}
+.address{
+    margin-right: 590px;
+    
+}
+.placeOrder{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 20px;
+    margin-top: 20px;
+}

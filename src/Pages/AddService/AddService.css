@@ -1,0 +1,32 @@
+.service-container{
+    margin-bottom: 30px;
+}
+/* .description */
+.imageUrl{
+    margin-right: 575px;
+}
+.Service{
+    margin-left: 45px;
+}
+.Price{
+    margin-right: 620px;
+}
+.Description{
+    margin-left: 50px;
+}
+
+
+@media only screen and (max-width: 600px){
+    .Description {
+        margin-left: 10px;
+    }
+    .imageUrl{
+        margin-right: 20px;
+    }
+    .Service{
+        margin-left: 10px;
+    }
+    .Price{
+        margin-right: 20px;
+    }
+}

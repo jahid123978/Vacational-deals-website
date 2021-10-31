@@ -1,0 +1,16 @@
+.user-list{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.manage-orders{
+    margin: 40px;
+}
+.orders-card{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+@media only screen and (max-width: 600px){
+    .orders-card{
+        display: block;
+    }
+}

@@ -1,0 +1,16 @@
+.navbar-container{
+   background-color: red;
+   padding: 30px;
+   display: flex;
+}
+.services-link{
+    margin-left: 50px;
+}
+.nav-link{
+    text-decoration: none;
+    color: white;
+    margin-right: 70px;
+}
+.nav-login{
+    margin-left: 430px;
+}

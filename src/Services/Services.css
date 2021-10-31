@@ -1,0 +1,30 @@
+.single-card{
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.single-card img{
+    border-radius: 10px;
+   width: 286px;
+   height: 200px;
+}  
+.card-title{
+    font-weight: bold;
+
+}
+.card-text{
+    margin: 10px 10px;
+}
+.card-body{
+  /* padding: 0 50px; */
+  align-items: center;
+  margin-top: 25px;
+}
+.card-button{
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-right: 25px;
+    border: 1px solid black;
+    padding: 10px 20px;
+}

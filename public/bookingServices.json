@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Catalonia Riviera Maya and Yucata",
+       "image" : "https://www.imgserver.ca/rt/shared/hotel-images/92133/catalonia_riviera_maya_resort_and_yucatan_beach_1_P.jpg",
+       "price": 1109,
+       "description" : "The Caribbean Sea's turquoise waters can be seen from this hotel-paradise"
+    },
+    {
+        "name": "Paradisus Varadero",
+        "image": "https://www.imgserver.ca/rt/shared/hotel-images/2397/H1ITHL07_P.jpg",
+        "price": 1025,
+        "description": "Paradisus Varadero is a beautiful 5-star all-inclusive Ecoresort & Spa on a privileged stretch of Varadero Beach"
+    },
+    {
+        "name": "Occidental Caribe",
+        "image": "https://www.imgserver.ca/rt/shared/hotel-images/2488/267-views-9-hotel-barcelo-punta-cana_tcm21-91748_w1600_n_P.jpg",
+        "price": 909,
+        "description": "The Occidental Caribe is a holiday resort that boasts an unbeatable location on the beachfront"
+
+    },
+    {
+        "name": "The hacienda at hilton puertovalla",
+        "image": "https://www.imgserver.ca/rt/shared/hotel-images/99403/11745_hacienda_at_hilton_puerto_vallarta_1_P.jpg",
+        "price": 1395,
+        "description": "The new Puerto Vallarta Hilton Resort, awarded the AAA Four Diamond award, offers an All-Inclusive beachside experience"
+    },
+    {
+        "name": "Dreams Las Mareas Costa Rica",
+        "image": "https://www.imgserver.ca/rt/shared/hotel-images/98409/sv_10638_dreamslasmareas_21_P.jpg",
+        "price": 2439,
+        "description": "Located in the beautiful Playa El Jobo on the Northern coast of Guanacaste, Dreams Las Mareas Costa Rica"
+    },
+    {
+        "name": "Smart Cancun by Oasis",
+        "image": "https://www.imgserver.ca/rt/shared/hotel-images/2902/1930_oasis_smart_4_P.jpg",
+        "price": 439,
+        "description": "The Be Smart America Hotel in Cancun is located in downtown Cancun and is a dream come true."
+    }
+]

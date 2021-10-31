@@ -1,0 +1,31 @@
+.home-body{
+    /* width: 500px; */
+}
+.banner img{
+    width:100%;
+    height:70%;
+}
+.card-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-row-gap: 40px;
+    grid-column-gap: 20px;
+    margin-left: 70px;
+}
+.third-section{
+    margin-top: 30px;
+}
+.card-contain{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-bottom: 25px;
+    margin-left: 80px;
+}
+@media only screen and (max-width: 600px){
+  .card-container{
+      display: block;
+  }
+  .card-contain{
+        display: block;
+  }
+}
